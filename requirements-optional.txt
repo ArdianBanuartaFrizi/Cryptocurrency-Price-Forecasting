@@ -1,0 +1,2 @@
+# Optional dependency for the Prophet experiment in the original notebook
+prophet>=1.1.5
